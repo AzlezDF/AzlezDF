@@ -3,7 +3,7 @@
 ## 1. Siapkan repository profil
 
 1. Pastikan repository ini **publik** dan namanya persis `AzlezDF` (sama dengan username GitHub).
-2. Push `README.md`, `.github/workflows/snake.yml`, dan `SETUP.md` ke branch `main`.
+2. Push `README.md`, `assets/cyber-security-banner.svg`, `.github/workflows/snake.yml`, dan `SETUP.md` ke branch `main`.
 3. Buka halaman profil GitHub untuk melihat README. Perubahan biasanya tampil dalam beberapa saat.
 
 ## 2. Aktifkan contribution snake

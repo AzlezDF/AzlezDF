@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=180&section=header&text=Daffi%20Al%20Hammani&fontSize=42&fontColor=F1F5F9&fontAlignY=38&desc=Cyber%20Security%20Enthusiast%20%7C%20Penetration%20Testing%20%26%20Network%20Security&descAlignY=58&descSize=16&animation=fadeIn" alt="Banner profil Daffi Al Hammani" width="100%" />
+  <img src="./assets/cyber-security-banner.svg" alt="Banner profil Daffi Al Hammani bertema keamanan siber" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=520&lines=Cyber+Security+Enthusiast;Penetration+Testing+Learner;CTF+Player;Always+Learning" alt="Cyber Security Enthusiast, Penetration Testing Learner, CTF Player, Always Learning" />
